@@ -17,3 +17,5 @@
 | Random Forest       | tfidf     | 0.84     | 0.15      |
 | Deep Neural Network | w2vec     | 0.79     | 0.46      |
 | GRU  Neural Network | w2vec   | | 0.82     | 0.39      |
+
+* **TensorBoard**: https://drive.google.com/drive/folders/1V_0A8a-YDusames3YJy9QwOBZxSVcDmP?usp=sharing
