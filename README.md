@@ -19,3 +19,11 @@
 | GRU  Neural Network | w2vec     | 0.82     | 0.39      |
 
 * **TensorBoard**: https://drive.google.com/drive/folders/1V_0A8a-YDusames3YJy9QwOBZxSVcDmP?usp=sharing
+
+## Lab #2: Translation task
+
+* **Link**: https://github.com/bogatovam/nlp-labs/blob/main/NLP2.ipynb 
+
+* **Dataset**: TED dataset from tensorflow(ted_hrlr_translate)
+
+* **Results**: The statistical model is not good for translating phrases. Attempts were made to train models EncDec+Attention and Transformer (Tensorflow tutorials were used), but due to the limited amount of resources and time, meaningful translation was not achieved. 
